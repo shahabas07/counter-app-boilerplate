@@ -1,0 +1,22 @@
+.body{
+  text-align: center;
+  font-size: 25px;
+}
+
+.count{
+color: green;
+}
+button{
+  margin-left: 15px;
+  width: 60px;
+  padding: 10px;
+}
+
+.reset{
+  font-size: 15px;
+}
+
+button:hover{
+  background-color: yellow;
+  color: green;
+}
